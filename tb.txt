@@ -750,7 +750,7 @@
   ],
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHJlYW0yMDAvdGIvcmF3L21hc3Rlci90di90di50eHQ="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2JveDI0L2JveC8tL3Jhdy9tYWluL3R2L3R2LnR4dA=="
 ]}]}],
 "ijk":[
 {"group":"软解码","options":[
