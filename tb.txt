@@ -5,7 +5,7 @@
       "key":"js豆瓣",
       "name":"🍀豆瓣热榜",
       "type":3,
-      "api":"hhttps://gitlab.com/box24/box/-/raw/main/sites/yingmo.js",
+      "api":"https://gitlab.com/box24/box/-/raw/main/sites/yingmo.js",
       "ext":"https://gitlab.com/box24/box/-/raw/main/sites/douban.js",
       "searchable": 0,
       "quickSearch": 0,
