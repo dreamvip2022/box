@@ -80,7 +80,7 @@
 {"key": "csp_MGTV","name": "🥭芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"playerType":1,"quickSearch": 1,"filterable": 1},
   {
    "key": "dr_优酷",
-   "name": "优酷(drpy)",
+   "name": "👑优酷(drpy)",
    "type": 3,
    "api": "https://gitlab.com/box24/box/-/raw/main/sites/drpy.min.js",
    "searchable": 2,
@@ -89,6 +89,15 @@
 "playerType":1,
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/优酷.js"
   },
+      {
+      "key":"csp_Zjdr",
+      "name":"🏃追剧达人",
+      "type":3,
+      "api":"csp_Zjdr",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+     },
   {
    "key": "dr_爱酷影视",
    "name": "爱酷影视",
