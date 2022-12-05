@@ -1,6 +1,16 @@
 {
 "spider":"https://gitlab.com/box24/box/-/raw/main/jar/1105.jar",
 "sites": [
+    {
+      "key":"js豆瓣",
+      "name":"🍀豆瓣热榜",
+      "type":3,
+      "api":"hhttps://gitlab.com/box24/box/-/raw/main/sites/yingmo.js",
+      "ext":"https://gitlab.com/box24/box/-/raw/main/sites/douban.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+      },
 {"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"蓝光电影","name":"💎蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"},
     {
