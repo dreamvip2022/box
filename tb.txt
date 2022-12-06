@@ -3,7 +3,7 @@
 "sites": [
    {
     "key":"dr_豆瓣",
-    "name":"🍀豆瓣热榜(备用)",
+    "name":"🍀豆瓣热榜",
     "type":4,
     "api":"http://drpy.ganggang.live:5705/vod?rule=drpy",
     "searchable":0,
