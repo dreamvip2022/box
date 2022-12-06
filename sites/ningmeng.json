@@ -6,7 +6,8 @@
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "0",
     //开启首页后可以把分类里相同链接的那个去掉，免得多个重复的。
-    "首页推荐链接": "http://www.lu1.cc/c/tv/sjtv/",
+    "主页url": "http://www.lu1.cc/c/tv/sjtv/",
+    //"首页推荐链接": "http://www.lu1.cc/c/tv/sjtv/ys.htm",
     "首页列表数组规则": "[data-role=listview]",
     "首页片单列表数组规则": "a",
     "首页片单是否Jsoup写法": "1",
