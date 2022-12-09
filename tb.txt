@@ -2,10 +2,10 @@
 "spider":"https://gitlab.com/box24/box/-/raw/main/jar/1105.jar",
 "sites": [
    {
-    "key":"dr_豆瓣",
+    "key":"t4豆瓣",
     "name":"🍀豆瓣热榜",
     "type":4,
-    "api":"http://drpy.ganggang.live:5705/vod?rule=drpy",
+    "api":"http://t4.ganggang.live:3812/vod",
     "searchable":0,
     "quickSearch":0,
     "filterable":0
