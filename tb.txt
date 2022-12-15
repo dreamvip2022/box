@@ -22,16 +22,9 @@
       "filterable": 0,
       "ext": "https://gitlab.com/box24/box/-/raw/main/sites/ningmeng.json"
     },
-         {
-      "key":"csp_ZJMiao",
-      "name":"🐠视觉影院",
-      "type":3,
-      "api":"csp_Xinsj",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-      },
-{"key":"蓝光电影","name":"💎蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"},
+{"key":"csp_XBPQ_视觉影院","name":"🐠视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/视觉影院.json"}, 
+{"key":"csp_XBPQ_蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/蓝光影院.json"},
+//{"key":"蓝光电影","name":"💎蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"},
     {
       "key": "csp_xpath_789kp",
       "name": "🎗️数字影院",
