@@ -148,7 +148,7 @@
 //{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
 //{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/Jar/Alist3.jar},
+{"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/Jar/Alist3.jar"},
     {
       "key": "csp_bendi",
       "name": "📂本地视频",
