@@ -1,6 +1,10 @@
 {
   "drives": [
     {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
       "name": "OB",
       "server": "https://alistcn.repl.co"
     },
@@ -11,10 +15,6 @@
     {
       "name": "小兵",
       "server": "https://6vv.app"
-    },
-    {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
     },
     {
       "name": "杜比",
@@ -31,10 +31,6 @@
     {
       "name": "晴園",
       "server": "https://alist.52qy.repl.co"
-    },
-    {
-      "name": "梓澪",
-      "server": "https://zi0.cc"
     },
     {
       "name": "米奇",
