@@ -1,5 +1,7 @@
+{
+  "drives": [
     {
-      "name": "OB",
+      "name": "歐逼",
       "server": "https://alistcn.repl.co"
     },
     {
@@ -74,3 +76,5 @@
       "name": "DISK",
       "server": "http://124.222.140.243:8080"
     }
+  ]
+}
