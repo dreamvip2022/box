@@ -310,6 +310,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河北卫视,http://w.g9.pub:66/381203888/yfy.php?id=79
 
+河南卫视,http://yfsl.vsd.gehua.net.cn/live/HeNanHD_6000.m3u8
+河南卫视,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=hnws
 河南卫视,http://124.220.17.172/shtv/ybhg.php?id=2933389614
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河南卫视,http://w.g9.pub:66/381203888/yfy.php?id=78
