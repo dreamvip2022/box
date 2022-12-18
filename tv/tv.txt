@@ -269,6 +269,16 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 卫视频道,#genre#
 
+
+湖南卫视,http://124.220.17.172/as.php?id=20
+湖南卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
+湖南卫视,http://w.g9.pub:66/381203888/yfy.php?id=25
+湖南卫视,http://111.20.33.70/TVOD/88888893/224/3221226211/index.m3u8
+湖南卫视,http://222.175.159.226:808/hls/41/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
+湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
+
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
@@ -297,15 +307,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-湖南卫视,http://124.220.17.172/as.php?id=20
-湖南卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-湖南卫视,http://w.g9.pub:66/381203888/yfy.php?id=25
-湖南卫视,http://111.20.33.70/TVOD/88888893/224/3221226211/index.m3u8
-湖南卫视,http://222.175.159.226:808/hls/41/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
-湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
-
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
 浙江卫视,http://111.20.33.70/TVOD/88888893/224/3221226199/index.m3u8
