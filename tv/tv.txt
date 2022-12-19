@@ -1,4 +1,13 @@
-	
+体育频道,#genre#
+CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+咪咕4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+
 央视频道,#genre#
 
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
