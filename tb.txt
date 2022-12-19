@@ -16,7 +16,7 @@
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+      "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRsYWIuY29tL2JveDI0L2JveC8tL3Jhdy9tYWluL3R2L3R2LnR4dA==",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
