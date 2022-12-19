@@ -912,7 +912,13 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 四海钓鱼,http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYu_2000.m3u8
 
 上海频道,#genre#
-东方卫视,http://yfsl.vsd.gehua.net.cn/live/DongFangHD_1200.m3u8
+东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
+东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
+东方卫视,http://124.220.17.172/bestv.php?id=22
+东方卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8?
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+
+
 东方影院,http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=dfys
 东方影院,http://lu1.cc/c/tv/sjtv/p/migu.php?id=dfys
 东方影院,http://m.a1.gs/p/migu.php?id=dfys
