@@ -12,15 +12,14 @@
       "filterable": 0
       },
           {"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-         {
-      "key": "csp_XYQ_lu1",
-      "name": "️🖥️电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
+     {
+      "key": "T4直播转点播",
+      "name": "🖥️电视直播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/ningmeng.json"
+      "filterable": 1
     },
 {"key":"csp_XBPQ_视觉影院","name":"🐠视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/视觉影院.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ1203.jar"}, 
 {"key":"csp_XBPQ_蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/蓝光影院.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ1203.jar"},
