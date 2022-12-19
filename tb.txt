@@ -43,7 +43,17 @@
     },
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"playerType":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"Tutu_spider","name":"🐰图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618","jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"},
+    {
+      "key":"csp_AppTT",
+      "name":"🗺️图图影视",
+      "type":3,
+      "api":"csp_TutuYs",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://121.205.88.126:7788/"
+      },
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
