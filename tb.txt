@@ -15,7 +15,6 @@
       "key":"csp_app_阿里",
       "name":"🐼阿里影视",
       "type":3,
-      "playerType":2,
       "api":"csp_AppYsV2",
       "searchable":1,
       "quickSearch":1,
