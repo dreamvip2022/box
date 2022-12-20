@@ -149,16 +149,6 @@
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/爱酷影视.js"
   },
   {
-   "key": "dr_趣享星趣",
-   "name": "趣享星趣",
-   "type": 3,
-   "api": "https://gitlab.com/box24/box/-/raw/main/sites/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://gitlab.com/box24/box/-/raw/main/sites/趣享星趣.js"
-  },
-  {
    "key": "dr_兰花影院",
    "name": "兰花影院",
    "type": 3,
@@ -168,21 +158,7 @@
    "filterable": 0,
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/兰花影院.js"
   },
-  {
-   "key": "dr_大师兄影视",
-   "name": "大师兄影视",
-   "type": 3,
-   "api": "https://gitlab.com/box24/box/-/raw/main/sites/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://gitlab.com/box24/box/-/raw/main/sites/大师兄影视.js"
-  },
 
-//{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
-//{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"http://service-jo0ovsqt-1314549129.bj.apigw.tencentcs.com/release/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/Alist3.jar"},
     {
       "key": "csp_bendi",
