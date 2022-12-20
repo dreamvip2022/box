@@ -11,7 +11,17 @@
       "quickSearch": 0,
       "filterable": 0
       },
-          {"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {
+      "key":"csp_app_阿里",
+      "name":"🐼阿里影视",
+      "type":3,
+      "playerType":2,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://aliys.cn:90/api.php/v1.vod"
+    },
      {
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
@@ -21,6 +31,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {
       "key":"csp_ZJMiao",
       "name":"🐠视觉影院",
