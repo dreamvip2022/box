@@ -128,7 +128,7 @@
 "playerType":1,
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/优酷.js"
   },
-{"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ1203.jar"}, 
+{"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/sou.jar"}, 
     {
       "key": "MV大全",
       "name": "MV大全",
