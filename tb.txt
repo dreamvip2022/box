@@ -212,13 +212,7 @@
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/🍀金眼影视.json"},
 {"key":"csp_biubiu_um","name":"🍀UM影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/🍀UM影院.json"},
 //
-{"key":"csp_xbb_乐猪影视","name":"🍀乐猪影视📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/🍀乐猪影视📵.json"},
-{"key":"csp_xbb_黑狐影视ns","name":"🍀黑狐影视(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/🍀黑狐影视(NS)📵.json"},
-{"key":"csp_xbb_真不卡cerrd","name":"🍀真不卡cerrd(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/真不卡ns.json"},
-{"key":"csp_xbb_奇优影院ns","name":"🍀奇优影院(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/🍀奇优影院(NS)📵.json"}, 
-
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/box24/box/-/raw/main/sites/💥音范丝4K(300+).json"},
-{"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/box24/box/-/raw/main/sites/💥哔嘀磁力(慎用).json","jar": "https://gitlab.com/box24/box/-/raw/main/jar/spider4.jar"},
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/💢AGE动漫.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/💢动漫巴士.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/💢樱花动漫.json"},
