@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1105.jar",
+"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar",
 "sites": [
       {
       "key":"js豆瓣",
@@ -169,17 +169,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-	{
-      "key":"csp_Paper",
-      "name":"🔖小纸条",
-      "type":3,
-      "api":"csp_Paper",
-      "searchable":1,
-      "quickSearch ":1,
-      "filterable":1,
-      "ext":"./main/ali.txt"
-      },
-//{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/main/ali.txt"}, 
+{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/main/ali.txt"}, 
 {"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/main/ali.txt"}, 
 {"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/main/ali.txt"}, 
 {"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/main/ali.txt"}, 
