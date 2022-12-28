@@ -190,7 +190,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/youer.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/youer.py"
         }, 
         {
             "key" : "py_xiaoxue",
@@ -200,7 +200,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/xiaoxue.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/xiaoxue.py"
         }, 
         {
             "key" : "py_czxx",
@@ -210,7 +210,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/chuzhong.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/chuzhong.py"
         }, 
         {
             "key" : "py_gaozxx",
@@ -220,7 +220,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/gaozhong.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/gaozhong.py"
         }, 
         {
             "key" : "py_TYjs",
@@ -230,7 +230,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/tiyu.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/tiyu.py"
         }, 
         {
             "key" : "py_FBqx",
@@ -240,7 +240,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/qiudui.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/qiudui.py"
         },  
         {
             "key" : "py_yanchh",
@@ -250,7 +250,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/geshou.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/geshou.py"
         }, 
         {
             "key" : "py_MTV",
@@ -260,7 +260,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/mtv.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/mtv.py"
         }, {
             "key" : "py_Yinl2",
             "name" : "🅱️音乐合集",
@@ -269,7 +269,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/yinyue.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/yinyue.py"
         }, 
         {
             "key" : "py_Bzjc",
@@ -279,7 +279,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./Bili/ruanjian.py"
+            "ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Bili/ruanjian.py"
         }, 
 {"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ_1216.jar"}, 
     {
