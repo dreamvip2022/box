@@ -169,18 +169,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-	{
-      "key":"csp_Paper",
-      "name":"🔖小纸条",
-      "type":3,
-      "api":"csp_Paper",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch ":1,
-      "filterable":1,
-      "ext":"./main/ali.txt"
-      },
-{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/txt/ali.txt"}, 
+{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"}, 
 {"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/txt/ali.txt"}, 
 {"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/txt/ali.txt"}, 
 {"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/txt/ali.txt"}, 
