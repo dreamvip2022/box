@@ -39,6 +39,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+      {
+      "key":"csp_Bd",
+      "name":"💥哔滴影视",
+      "type":3,
+      "api":"csp_Bdys01",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
 {"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {
       "key":"csp_ZJMiao",
