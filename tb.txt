@@ -2,16 +2,15 @@
 {
 "spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar;md5;5AF707FB2DCF26A3942769903A81D25F",
 "sites": [
-      {
-      "key":"js豆瓣",
-      "name":"🍀豆瓣热榜",
-      "type":3,
-      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-      },
+     {
+    "key":"T4_douban",
+    "name":"🍀豆瓣热榜",
+    "type":4,
+    "api":"https://t4.饭太硬.ml/vod",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0
+    },
     {
       "key":"csp_app_阿里",
       "name":"🐼阿里影视",
@@ -76,9 +75,15 @@
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-
-{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
-"jar":"https://gitlab.com/box24/box/-/raw/main/jar/sou.jar"},
+    {
+      "key":"csp_CZSPP",
+      "name":"🏭厂长资源",
+      "type":3,
+      "api":"csp_Czsapp",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
 	{
 	  "key":"YQK_spider",
 	  "name":"🏆️一起看TV",
