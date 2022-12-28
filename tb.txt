@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar",
+"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar;md5;5AF707FB2DCF26A3942769903A81D25F",
 "sites": [
       {
       "key":"js豆瓣",
