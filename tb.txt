@@ -133,7 +133,7 @@
 {"key": "csp_MGTV","name": "🥭芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
   {
    "key": "dr_优酷",
-   "name": "👑优酷(drpy)",
+   "name": "👑优酷",
    "type": 3,
    "api": "https://gitlab.com/box24/box/-/raw/main/sites/drpy.min.js",
    "searchable": 2,
@@ -219,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "./sites/🔥骚火电影.json"
     },
     {
       "key":"csp_Lib",
