@@ -12,6 +12,15 @@
       "quickSearch": 0,
       "filterable": 0
       },
+    	{
+      "key": "csp_BuLei",
+      "name": "⚡️布雷影视",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"csp_app_阿里",
       "name":"🐼阿里影视",
