@@ -139,7 +139,6 @@
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-"playerType":1,
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/优酷.js"
   },
 
