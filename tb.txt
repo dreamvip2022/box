@@ -223,7 +223,7 @@
     },
     {
       "key":"csp_Lib",
-      "name": "🍲LIB(SP)",
+      "name": "🍲LIB",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
