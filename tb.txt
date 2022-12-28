@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar;md5;5AF707FB2DCF26A3942769903A81D25F",
+"spider":"https://gitlab.com/box24/box/-/raw/main/jar/1228.jar",
 "sites": [
      {
     "key":"T4_douban",
@@ -181,6 +181,7 @@
 {"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_搬运工","name":"🐝搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
+
     {
       "key": "干饭影视",
       "name": "🍚干饭影视",
@@ -189,7 +190,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/干饭影视.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍚干饭影视.json"
     },
     {
       "key": "口袋影院",
@@ -199,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/👝口袋影院.json"
     },
     {
       "key": "花猫影视",
@@ -209,7 +210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐱花猫影视.json"
     },
     {
       "key": "利奥影院",
@@ -219,7 +220,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍪利奥影院.json"
     },
     {
       "key": "六度影视",
@@ -229,7 +230,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍨六度影视.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -239,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"    
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐢达达龟.json"    
     },
     {
       "key": "csp_xBPQ_TVB云播",
@@ -249,7 +250,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"      
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌤TVB云播.json"      
     },
     {
       "key": "COKEMV",
@@ -259,7 +260,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/COKEMV.json"     
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🥮COKEMV.json"     
     },
     {
       "key": "Auete影视",
@@ -269,7 +270,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/Auete%E5%BD%B1%E8%A7%86.json"    
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍬Auete影视.json"    
     },
     {
       "key": "人人影视",
@@ -279,7 +280,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"     
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/👫人人影视.json"     
     },
     {
       "key": "三九影视",
@@ -289,7 +290,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"    
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐐三九影视.json"    
     },
     {
       "key": "csp_xBPQ_金眼影视",
@@ -299,7 +300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌟金眼影视.json"
     },
     {
       "key": "csp_xBPQ_Nike影视",
@@ -309,7 +310,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/Nike%E5%BD%B1%E8%A7%86.json"    
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌹Nike影视.json"    
     },
     {
       "key": "去看动漫",
@@ -319,7 +320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"    
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🎊去看动漫.json"    
     },
     {
       "key": "动漫直链",
@@ -329,7 +330,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"      
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🎭动漫直链.json"      
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -339,7 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍭风车动漫.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -349,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🤖动漫巴士.json"
     }
 
 ],
