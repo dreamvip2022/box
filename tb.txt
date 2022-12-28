@@ -48,7 +48,6 @@
       "quickSearch":1,
       "filterable":1
       },
-{"key":"NoSearch_Bdys_spider","name":"📯哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {
       "key":"csp_ZJMiao",
       "name":"🐠视觉影院",
@@ -183,7 +182,145 @@
 {"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/歌曲.txt"},
 {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt"},
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/戏曲.txt"},
-
+    	{
+            "key" : "py_youer",
+            "name" : "🅱️幼儿教育",
+            "type" : 3,
+            "api" : "py_youer",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/youer.py"
+        }, 
+        {
+            "key" : "py_xiaoxue",
+            "name" : "🅱️小学教育",
+            "type" : 3,
+            "api" : "py_xiaoxue",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/xiaoxue.py"
+        }, {
+            "key" : "py_czxx",
+            "name" : "🅱️初中教育",
+            "type" : 3,
+            "api" : "py_czxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/chuzhong.py"
+        }, {
+            "key" : "py_gaozxx",
+            "name" : "🅱️高中教育",
+            "type" : 3,
+            "api" : "py_gaozxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/gaozhong.py"
+        }, {
+            "key" : "py_xuqu1",
+            "name" : "🅱️戏曲合集",
+            "type" : 3,
+            "api" : "py_xuqu1",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/xiqu.py"
+        }, {
+            "key" : "py_TYjs",
+            "name" : "🅱️体育健身",
+            "type" : 3,
+            "api" : "py_TYjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/tiyu.py"
+        }, {
+            "key" : "py_xiangsh",
+            "name" : "🅱️相声小品",
+            "type" : 3,
+            "api" : "py_xiangsh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/xiaopin.py"
+        }, {
+            "key" : "py_FBqx",
+            "name" : "🅱️球队球星",
+            "type" : 3,
+            "api" : "py_FBqx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/qiudui.py"
+        },  {
+            "key" : "py_Meinvw",
+            "name" : "🅱️美女热舞",
+            "type" : 3,
+            "api" : "py_Meinvw",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/meinv.py"
+        }, {
+            "key" : "py_yanchh",
+            "name" : "🅱️歌手合集",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/geshou.py"
+        }, {
+            "key" : "py_Nvtuan",
+            "name" : "🅱️女团热舞",
+            "type" : 3,
+            "api" : "py_Nvtuan",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/nvtuan.py"
+        }, {
+            "key" : "py_MTV",
+            "name" : "🅱️歌曲MTV",
+            "type" : 3,
+            "api" : "py_MTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/mtv.py"
+        }, {
+            "key" : "py_Yinl2",
+            "name" : "🅱️音乐合集",
+            "type" : 3,
+            "api" : "py_Yinl2",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/yinyue.py"
+        }, 
+        {
+            "key" : "py_Bzjc",
+            "name" : "🅱️软件教程",
+            "type" : 3,
+            "api" : "py_Bzjc",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/ruanjian.py"
+        }, 
+       {
+      "key": "美食",
+      "name": "🅱️美食合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+    },
 {"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ_1216.jar"}, 
     {
       "key": "MV大全",
