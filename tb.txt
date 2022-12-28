@@ -184,6 +184,114 @@
 
 {"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/Alist3.jar"},
 
+    {
+      "key": "csp_剧荒",
+      "name": "⛱️剧荒TV",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🎬️影视工厂",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Zxzj",
+      "name": "🏠在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+        {
+      "key": "csp_biubiu_骚火电影",
+      "name": "🔥骚火电影",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+    },
+    {
+      "key":"csp_Lib",
+      "name": "🍲LIB(SP)",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
+    {
+      "key":"csp_fant",
+      "name":"🍙饭团",
+      "type":3,
+      "api":"csp_Fantuan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+     {"key": "csp_xBPQ_电影天堂",
+        "name":"🏖电影天堂",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类\":\"电影$1#续集$2#综艺$3#动漫$4#世界杯$32\",\"分类url\":\"https://www.qiip.cc/vod/show/id/{cateId}.html\",\"筛选\":\"1\"}"},
+
+    {
+      "key":"csp_Dy1010",
+      "name":"❤️双十电影",
+      "type":3,
+      "api":"csp_Dy1010",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+    {
+      "key": "csp_Cokemv",
+      "name": "🎀Cokemv",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Auete",
+      "name": "🐼Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌两个BT",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🌸动漫系列",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
 {"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
 {"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
 {"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
