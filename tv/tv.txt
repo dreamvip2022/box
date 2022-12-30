@@ -391,9 +391,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 晴彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 开封综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
 开封文旅,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-洛阳综合,http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8
-洛阳科教,http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
-洛阳文旅,http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+洛阳综合,http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8?zhend
+洛阳科教,http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8?zhend
+洛阳文旅,http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8?zhend
 平顶山综合,http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
 平顶山城市,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
 平顶山公共,http://live.muzhifm.com/shuazhibo/room2983_pc.m3u8?auth_key=1785035772-0-0-e8ae97c4402a8d3cf8ba7d8c7441f515
