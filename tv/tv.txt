@@ -2716,7 +2716,6 @@ CCTV14,http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
-4K测试　,#genre#
 4K频道,#genre#
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
