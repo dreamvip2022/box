@@ -167,7 +167,17 @@
    "ext": "https://gitlab.com/box24/box/-/raw/main/sites/优酷.js"
   },
 
-{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
+//{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
+	{
+	  "key":"csp_GitCafe",
+	  "name":"🔖小纸条",
+	  "type":3,
+	  "api":"csp_Gitcafe",
+	  "playerType":1,
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"343a13f9bd1a4349b1518130dc355d1f"},  
     {
       "key":"csp_Tkys",
       "name": "🍂天空影院",
