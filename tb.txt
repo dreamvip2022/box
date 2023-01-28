@@ -173,7 +173,6 @@
 	  "name":"🔖小纸条",
 	  "type":3,
 	  "api":"csp_Gitcafe",
-	  "playerType":1,
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":1,
