@@ -177,7 +177,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":1,
-	  "ext":"6640ec0eb38e48e0a93b9b912270af5a"},  
+	  "ext":"468d495b3f914bceb7608a80c9bbe1bf"},  
     {
       "key":"csp_Tkys",
       "name": "🍂天空影院",
@@ -338,10 +338,10 @@
       "filterable": 0
     },
 
-{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
-{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
-{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
-{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"343a13f9bd1a4349b1518130dc355d1f"},
+{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
+{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
+{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
+{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
 //json资源
