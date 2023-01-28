@@ -19,7 +19,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://aliys.cn:90/api.php/v1.vod"
+      "ext":"http://aliys.cn:92/api.php/v1.vod"
     },
      {
       "key": "T4直播转点播",
