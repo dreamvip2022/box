@@ -21,6 +21,7 @@
       "filterable":1,
       "ext":"http://aliys.cn:92/api.php/v1.vod"
     },
+    {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
      {
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
