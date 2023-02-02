@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://gitlab.com/box24/box/-/raw/main/jar/230128.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/230128.jar",
 "sites": [
      {
     "key":"T4_douban",
@@ -57,7 +57,7 @@
       "quickSearch":1,
       "filterable":1
       },
-{"key":"csp_XBPQ_蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/蓝光影院.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/XBPQ_1216.jar"},
+{"key":"csp_XBPQ_蓝光影院","name":"💎蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/蓝光影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/XBPQ_1216.jar"},
     {
       "key": "csp_xpath_789kp",
       "name": "🎗️数字影院",
@@ -66,7 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/789ba.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/789ba.json"
     },
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -101,7 +101,7 @@
 	  "quickSearch":1,
 	  "searchable":1,
 	  "ext":"https://api-tx.shumaxc.xyz",
-"jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"
+"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/czzy1123.jar"
 	},
     {
 	  "key":"百影视频",
@@ -112,7 +112,7 @@
 	  "quickSearch":1,
 	  "filterable":0,
 	  "ext":"http://47.104.99.175",
-"jar":"https://gitlab.com/box24/box/-/raw/main/jar/czzy1123.jar"
+"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/czzy1123.jar"
 	 },
     {
       "key": "csp_Nkdy",
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/Nmys.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/Nmys.json"
     },
 {"key": "csp_QQ","name": "🐧腾讯","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1"},
 {"key": "csp_IQIYI","name": "🥝爱奇艺","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -160,11 +160,11 @@
    "key": "dr_优酷",
    "name": "👑优酷",
    "type": 3,
-   "api": "https://gitlab.com/box24/box/-/raw/main/sites/drpy.min.js",
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gitlab.com/box24/box/-/raw/main/sites/优酷.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/优酷.js"
   },
 
 //{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
@@ -178,7 +178,7 @@
 	  "filterable":1,
 	  "ext":"468d495b3f914bceb7608a80c9bbe1bf"},  
 
-{"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/panda1216.jar"}, 
+{"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/追剧达人.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/panda1216.jar"}, 
     {
       "key": "MV大全",
       "name": "MV大全",
@@ -189,7 +189,7 @@
       "filterable": 1
     },
 
-{"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/Alist3.jar"},
+{"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/Alist3.jar"},
     {
       "key": "csp_Ysgc",
       "name": "🎬️影视工厂",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍚干饭影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🍚干饭影视.json"
     },
     {
       "key": "口袋影院",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/👝口袋影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/👝口袋影院.json"
     },
     {
       "key": "花猫影视",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐱花猫影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🐱花猫影视.json"
     },
     {
       "key": "利奥影院",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍪利奥影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🍪利奥影院.json"
     },
     {
       "key": "六度影视",
@@ -354,7 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍨六度影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🍨六度影视.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -364,7 +364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐢达达龟.json"    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🐢达达龟.json"    
     },
     {
       "key": "csp_xBPQ_TVB云播",
@@ -374,7 +374,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌤TVB云播.json"      
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🌤TVB云播.json"      
     },
     {
       "key": "COKEMV",
@@ -384,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🥮COKEMV.json"     
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🥮COKEMV.json"     
     },
     {
       "key": "Auete影视",
@@ -394,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍬Auete影视.json"    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🍬Auete影视.json"    
     },
     {
       "key": "人人影视",
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/👫人人影视.json"     
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/👫人人影视.json"     
     },
     {
       "key": "三九影视",
@@ -414,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🐐三九影视.json"    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🐐三九影视.json"    
     },
     {
       "key": "csp_xBPQ_金眼影视",
@@ -424,7 +424,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌟金眼影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🌟金眼影视.json"
     },
     {
       "key": "csp_xBPQ_Nike影视",
@@ -434,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🌹Nike影视.json"    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🌹Nike影视.json"    
     },
     {
       "key": "去看动漫",
@@ -444,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🎊去看动漫.json"    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🎊去看动漫.json"    
     },
     {
       "key": "动漫直链",
@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🎭动漫直链.json"      
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🎭动漫直链.json"      
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -464,7 +464,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🍭风车动漫.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🍭风车动漫.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -474,7 +474,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/box24/box/-/raw/main/sites/🤖动漫巴士.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/🤖动漫巴士.json"
     },
 //vod资源
     {
@@ -563,14 +563,14 @@
       "filterable": 0
     },
     
-{"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/演唱会.txt","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/歌曲.txt","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/戏曲.txt","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/📚小学课堂.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"},
-{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/📚初中课堂.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"}, 
-{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/📚高中课堂.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/2212.jar"}
+{"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/演唱会.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/歌曲.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/戏曲.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"小学","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/📚小学课堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"},
+{"key":"初中","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/📚初中课堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"}, 
+{"key":"高中","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/📚高中课堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/2212.jar"}
 
 ],
 //解X设置
