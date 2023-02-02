@@ -166,18 +166,17 @@
    "filterable": 1,
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/优酷.js"
   },
-
-//{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"343a13f9bd1a4349b1518130dc355d1f"}, 
 	{
-	  "key":"csp_GitCafe",
-	  "name":"🔖小纸条",
-	  "type":3,
-	  "api":"csp_Gitcafe",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"468d495b3f914bceb7608a80c9bbe1bf"},  
-
+      "key":"csp_GitCafe",
+      "name":"🔖小纸条",
+      "type":3,
+      "api":"csp_Paper",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch ":1,
+      "filterable":1,
+      "ext":"343a13f9bd1a4349b1518130dc355d1f"
+      },
 {"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/sites/追剧达人.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/tb/main/jar/panda1216.jar"}, 
     {
       "key": "MV大全",
