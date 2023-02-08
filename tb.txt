@@ -176,7 +176,7 @@
 	  "searchable":1,
 	  "quickSearch":1,
 	  "filterable":1,
-	  "ext":"468d495b3f914bceb7608a80c9bbe1bf",
+	  "ext":"15dcdda7b5e94cc98fa02e2affaacbea",
     "jar":"https://gitlab.com/box24/box/-/raw/main/jar/ali.jar"},  
 
 {"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/追剧达人.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/panda1216.jar"}, 
@@ -300,10 +300,10 @@
       "filterable": 0
     },
 
-{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
-{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
-{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"}, 
-{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"468d495b3f914bceb7608a80c9bbe1bf"},
+{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
 //json资源
