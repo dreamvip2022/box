@@ -1,6 +1,10 @@
 {
   "drives": [
     {
+      "name": "阿里",
+      "server": "https://alist.dreamvip2022.repl.co"
+    },
+    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
