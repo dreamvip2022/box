@@ -1,8 +1,73 @@
 {
   "drives": [
     {
-      "name": "Alist合集",
-      "server": "https://alist1.dreamvip2022.repl.co"
+      "name": "自用",
+      "server": "https://alist.dreamvip2022.repl.co"
+    },
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "OB",
+      "server": "https://alistcn.repl.co"
+    },
+    {
+      "name": "小兵",
+      "server": "https://6vv.app"
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    },
+    {
+      "name": "帥鵬",
+      "server": "https://hi.shuaipeng.wang"
+    },
+    {
+      "name": "星夢",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "晴園",
+      "server": "https://alist.52qy.repl.co"
+    },
+    {
+      "name": "米奇",
+      "server": "https://anime.mqmmw.ga"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "一只魚",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "浩瀚吧",
+      "server": "https://8023.haohanba.cn"
+    },
+    {
+      "name": "雲播放",
+      "server": "https://quanzi.laoxianghuijia.cn"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "資源小站",
+      "server": "https://960303.xyz"
+    },
+    {
+      "name": "DISK",
+      "server": "http://124.222.140.243:8080"
     }
   ]
 }
+
