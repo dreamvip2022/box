@@ -191,6 +191,7 @@
     },
 
 {"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/box24/box/-/raw/main/sites/Alist.json","jar":"https://gitlab.com/box24/box/-/raw/main/jar/Alist3.jar"},
+{"key" : "Alist1","name" :"🅿Alis网盘","type" : 3,"api" : "http://我不是.肥猫.love:63/JS/alist.min.js","ext" : "https://gitlab.com/box24/box/-/raw/main/sites/Alist.json"}, 
     {
       "key": "csp_Ysgc",
       "name": "🎬️影视工厂",
