@@ -93,8 +93,16 @@
       "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
       },
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
+    {
+      "key": "Lezhu_spider",
+      "name": "🦉乐猪影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/lezhu.json"
+    },
     {
       "key":"csp_CZSPP",
       "name":"🏭厂长资源",
@@ -126,15 +134,6 @@
 	  "ext":"http://47.104.99.175",
 "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/czzy1123.jar"
 	 },
-    {
-      "key": "csp_Nkdy",
-      "name": "🎨南柯电影",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name":"🦄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
     {
@@ -146,14 +145,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-      "key":"csp_Lgyy",
-      "name":"🌀voflix",
-      "type":3,
-      "api":"csp_Lgyy",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
+    {
+      "key": "csp_Lgyy",
+      "name": "🌀voflix",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/voflix.json"
     },
    {
       "key": "csp_Nmys",
@@ -220,8 +220,6 @@
 	  "filterable":1,
 	  "ext":"15dcdda7b5e94cc98fa02e2affaacbea",
     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/ali.jar"},  
-
-{"key":"csp_XBPQ_追剧达人","name":"🏃追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/追剧达人.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/panda1216.jar"}, 
     {
       "key": "MV大全",
       "name": "MV大全",
@@ -233,36 +231,26 @@
     },
 
 {"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/Alist3.jar"},
-{"key" : "Alist1","name" :"🅿Alis网盘","type" : 3,"api" : "http://我不是.肥猫.love:63/JS/alist.min.js","ext" : "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/Alist.json"}, 
-    {
+     {
       "key": "csp_Ysgc",
-      "name": "🎬️影视工厂",
+      "name": "️🎬️影视工厂",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://www.ysgc.fun"
     },
     {
-	  "key":"Tian",
-	  "name":"🎨天天影视",
-	  "type":"3",
-	  "api":"csp_Dora",
-	  "searchable":"1",
-	  "quickSearch":"1",
-	  "filterable":"1",
-	  "ext":"bdc1c75081e5e477189a463baa47e392"
-	  },
-    {
-      "key": "csp_Zxzj",
-      "name": "🏠在线之家",
+      "key": "Tian",
+      "name": "🎨天天影视",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "bdc1c75081e5e477189a463baa47e392"
     },
-
         {
       "key": "csp_biubiu_骚火电影",
       "name": "🔥骚火电影",
@@ -273,39 +261,32 @@
       "filterable": 1,
       "ext": "./sites/骚火电影.json"
     },
-    {
-      "key":"csp_Lib",
-      "name": "🍲LIB",
+     {
+      "key": "csp_Lib",
+      "name": "🍲LIB影视",
       "type": 3,
-      "api": "csp_Lib",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-      },
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/LIBVIO.json"
+    },
     {
-      "key":"csp_fant",
-      "name":"🍙饭团",
-      "type":3,
-      "api":"csp_Fantuan",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-      },
+      "key": "csp_fant",
+      "name": "🍙饭团影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/饭团HD.json"
+    },
      {"key": "csp_xBPQ_电影天堂",
         "name":"🏖电影天堂",
         "type": 3,
         "api": "csp_xBPQ",
         "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类\":\"电影$1#续集$2#综艺$3#动漫$4#世界杯$32\",\"分类url\":\"https://www.qiip.cc/vod/show/id/{cateId}.html\",\"筛选\":\"1\"}"},
 
-    {
-      "key":"csp_Dy1010",
-      "name":"❤️双十电影",
-      "type":3,
-      "api":"csp_Dy1010",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-      },
     {
       "key": "csp_Cokemv",
       "name": "🎀Cokemv",
@@ -328,7 +309,7 @@
       "key": "csp_Bttoo",
       "name": "✌两个BT",
       "type": 3,
-      "api": "csp_Bttoo",
+      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -347,7 +328,6 @@
 {"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
 {"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
 {"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"},
-{"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
 //json资源
     {
