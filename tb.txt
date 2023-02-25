@@ -41,16 +41,6 @@
       "filterable": 1,
       "ext": "https://www.bulei.cc"
     },
-    {
-      "key": "csp_app_源头",
-      "name": "🐈肥猫影院",
-      "type": 1,
-      "api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
-    },
       {
       "key":"csp_Bd",
       "name":"💥哔滴影视",
@@ -123,6 +113,16 @@
 	  "ext":"https://api-tx.shumaxc.xyz",
 "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/czzy1123.jar"
 	},
+      {
+      "key": "YQ_jk",
+      "name": "极客影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/jike.json"
+    },
     {
 	  "key":"百影视频",
 	  "name":"💯百影视频",
@@ -324,10 +324,55 @@
       "filterable": 0
     },
 
-{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
-{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
-{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
-{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"},
+    {
+      "key": "Upyunso",
+      "name": "️🌤️云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt",
+	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+    },
+    {
+      "key": "Alips",
+      "name": "📀盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt",
+	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+    },
+    {
+      "key": "Yisou",
+      "name": "🎯易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt",
+	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234",
+	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+    },
+
+//{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+//{"key":"Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+//{"key":"Upyunso","name":"🌤️云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
+//{"key":"Alips","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch" :1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"},
 
 //json资源
     {
@@ -602,13 +647,11 @@
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-  {"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-   {
-      "name": "1号线",
+    {
+      "name": "2号线",
       "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=48ba2e482a591a79bfe30b97a018a785&url="
+      "url": "http://jx.xdv.icu/api/?key=FEIbm1nVn4Vxtg4CCJ&url="
     },	
-{"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {
             "name": "星辰云解析",
             "type": 1,
