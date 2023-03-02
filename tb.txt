@@ -702,10 +702,10 @@
                 ]
             }
         },
-{
+	{
             "name": "星辰云解析",
             "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2379&my=chklstwCIKRUWZ0257&url=",
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -746,9 +746,6 @@
                 ]
             }
         },
-
-
-
 {
             "name": "肥猫官解",
             "type": 1,
