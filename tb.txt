@@ -21,6 +21,15 @@
     "filterable": 1,
 	"ext":"https://yydsys.top/duo/js/77.js"
 	},	
+{
+      "key": "T4直播转点播",
+      "name": "🖥️电视直播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cHM6Ly95eWRzeXMudG9wL2R1by90eHQvdi50eHQ=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"csp_app_阿里",
       "name":"🐼阿里影视",
@@ -31,15 +40,6 @@
       "filterable":1,
       "ext":"http://aliys.cn:90/api.php/v1.vod",
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/1228.jar"
-    },
-     {
-      "key": "T4直播转点播",
-      "name": "🖥️电视直播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cHM6Ly95eWRzeXMudG9wL2R1by90eHQvdi50eHQ=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     	{
       "key": "csp_BuLei",
