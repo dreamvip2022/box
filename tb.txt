@@ -11,16 +11,7 @@
     "quickSearch":0,
     "filterable":0
     },
-{
-	"key":"csp_Kunyu77",
-	"name":"🌤酷云七七",
-	"type":3,
-	"api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	"searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-	"ext":"https://yydsys.top/duo/js/77.js"
-	},	
+    {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
