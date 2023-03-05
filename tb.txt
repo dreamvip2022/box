@@ -11,8 +11,7 @@
     "quickSearch":0,
     "filterable":0
     },
-    {"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"js七七2","name":"🌤七七影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
