@@ -939,21 +939,9 @@
 {"host":"*","rule":["default.365yg.com"]},{"host":"dyxs20.com","rule":[".m3u8"]},{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},{"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},{"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},{"host":"*","rule":["douyin.com/aweme","video_id="]},{"host":"*","rule":["huoshan.com","/item/video/"]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
 ],
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"lives":[
-
-    {"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJlYW12aXAyMDIyL2JveC9tYWluL3R2L3R2LnR4dA=="]}]
-    },
-    
-{
-      "name": "live",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/tv/tv.txt",
-      "type": 0,
-      "epg": "https://api.viptv.work/tv/iptv?type=epg&ch={name}&date={date}",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    }],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJlYW12aXAyMDIyL2JveC9tYWluL3R2L3R2LnR4dA=="
+]}]}],
 
 //https://api.viptv.work/tv/iptv?type=epg&ch=cctv1&date=2021-6-12
 
