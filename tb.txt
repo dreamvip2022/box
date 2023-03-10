@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/230305.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/230308.jar",
 "sites": [
      {
     "key":"T4_douban",
