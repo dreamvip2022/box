@@ -9,7 +9,7 @@
     "api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e",
     "searchable":0,
     "quickSearch":0,
-    "filterable":0
+    "filterable":1
     },
     {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},	
 {
