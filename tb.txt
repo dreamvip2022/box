@@ -657,6 +657,11 @@
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
     },
+     {
+            "name": "小猫咪",
+            "type": 0,
+            "url": "http://player.xmmi.xyz/player/?url="
+        },
  {
       "name": "落尘2",
       "type": 0,
