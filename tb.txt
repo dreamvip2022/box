@@ -822,6 +822,8 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 "ads": [
+        "pinduoduo.com",
+        "yangkeduo.com",
         "wan.51img1.com",
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com",
