@@ -653,6 +653,10 @@
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     }, 
+     {
+      "name": "8090",
+      "url": "https://www.8090g.cn/?url="
+    },
  {
       "name": "落尘2",
       "type": 0,
@@ -668,10 +672,6 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },	
-    {
-      "name": "8090",
-      "url": "https://www.8090g.cn/?url="
-    },
     {
       "name": "m3u8",
       "type": 0,
