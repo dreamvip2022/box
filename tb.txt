@@ -11,6 +11,7 @@
     "quickSearch":0,
     "filterable":0
     },
+    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/jar/777.jar"},	
      {
       "key": "csp_AppTT",
       "name": "️🐰图图影视",
@@ -22,7 +23,6 @@
       "ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
       },
       {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Kunyu77","name": "🌤酷云77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},	
     //{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "T4直播转点播",
