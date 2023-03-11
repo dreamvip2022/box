@@ -649,6 +649,16 @@
 //解X设置
 "parses":[
  {
+      "name": "落尘1",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    }, 
+ {
+      "name": "落尘2",
+      "type": 0,
+      "url": "https://api.v6.chat/?url="
+    }, 
+ {
       "name": "777",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
