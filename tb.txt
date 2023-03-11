@@ -651,7 +651,7 @@
 ],
 //解X设置
 "parses":[
-{"name":"点击右边站点切换解析","type":3,"url":"Demo"},
+{"name":"点击右边切换解析","type":3,"url":"Demo"},
  {
       "name": "落尘1",
       "type": 0,
