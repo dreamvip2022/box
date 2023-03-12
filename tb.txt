@@ -216,17 +216,7 @@
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/优酷.js"
   },
 
-//{"key":"csp_GitCafe","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"343a13f9bd1a4349b1518130dc355d1f","jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"}, 
-	{
-	  "key":"csp_GitCafe",
-	  "name":"🔖小纸条",
-	  "type":3,
-	  "api":"csp_Paper",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"15dcdda7b5e94cc98fa02e2affaacbea",
-    "jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"},  
+{"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php"},
     {
       "key": "MV大全",
       "name": "MV大全",
