@@ -632,7 +632,7 @@
 ],
 //解X设置
 "parses":[
-{"name":"点击右边切换解析","type":3,"url":"Demo"},
+{"name":"点击右边切换解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
  {
       "name": "落尘1",
       "type": 0,
