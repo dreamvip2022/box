@@ -14,6 +14,17 @@
     {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},	
     {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
       {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
+      {
+      "key": "csp_大明",
+      "name": "♏大明影视",
+      "type": 1,
+      "api": "https://ys.md214.cn/api.php/provide/vod/", 
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"],
+	  "tsads": "iqiyi.hbuioo.com"
+	},	
     //{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "T4直播转点播",
@@ -321,7 +332,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/ali/token.txt",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
       "key": "Alips",
@@ -332,7 +343,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/ali/token.txt",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
       "key": "Yisou",
@@ -343,7 +354,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/ali/token.txt",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
       "key": "Zhaozy",
@@ -354,7 +365,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar;md5;626CD263A73044CA4FD79EFA7C8D2F45"
+	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
 
 //{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
