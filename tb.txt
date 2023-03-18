@@ -789,23 +789,15 @@
 ],
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"lives":[
-
-
-    
-{
+   "lives": [
+    {
       "name": "live",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/tv/tv.txt",
       "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/tv/tv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },    
-    {"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJlYW12aXAyMDIyL2JveC9tYWluL3R2L3R2LnR4dA=="]}]
-    }],
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+], 
 
 "ijk":[
 {"group":"软解码","options":[
