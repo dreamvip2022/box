@@ -789,6 +789,7 @@
 ],
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
+"lives":[
 {
       "name": "live",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/tv/tv.txt",
