@@ -32,6 +32,7 @@
       "type": 4,
       "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
       "searchable": 1,
+      "playerType": 1,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -801,6 +802,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
+    "playerType": 1,
     "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJlYW12aXAyMDIyL2JveC9tYWluL3R2L3R2LnR4dA=="]}]
     }],
 
