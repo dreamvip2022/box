@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.bulei.cc"
+      "ext": "https://v.bulei.cc"
     },
       {
       "key":"csp_Bd",
