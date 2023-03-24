@@ -333,7 +333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt",
+      "ext": "http://hz752.love:63/ali/ken.php",
 	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt",
+      "ext": "http://hz752.love:63/ali/ken.php",
 	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
@@ -355,7 +355,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt",
+      "ext": "http://hz752.love:63/ali/ken.php",
 	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
     {
@@ -366,7 +366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234",
+      "ext": "http://hz752.love:63/ali/ken.php$$$yingshi$$$abcd1234",
 	  "jar":"https://yydsys.top/duo/jar/ali.jar"
     },
 
