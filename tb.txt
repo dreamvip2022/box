@@ -791,9 +791,15 @@
 ],
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJlYW12aXAyMDIyL2JveC9tYWluL3R2L3R2LnR4dA=="
-]}]}],
+ "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://gitee.com/dream200/tb/raw/master/t/t.bmp",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+], 
 
 "ijk":[
 {"group":"软解码","options":[
