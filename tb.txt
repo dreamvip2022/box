@@ -205,10 +205,10 @@
       "filterable": 1,
       "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
     },
-{"key": "csp_QQ","name": "🐧腾讯","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/奇珍异兽.js"},
-//{"key": "csp_IQIYI","name": "🥝爱奇艺","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_MGTV","name": "🥭芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_QQ","name": "🐧腾讯","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1","jar":"https://gitee.com/dream200/tb/raw/master/jar/230311.jar"},
+//{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/奇珍异兽.js"},
+{"key": "csp_IQIYI","name": "🥝爱奇艺","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/dream200/tb/raw/master/jar/230311.jar"},
+{"key": "csp_MGTV","name": "🥭芒果","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/dream200/tb/raw/master/jar/230311.jar"},
   {
    "key": "dr_优酷",
    "name": "👑优酷",
@@ -221,6 +221,17 @@
   },
 
 {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php"},
+    {
+      "key": "js_酷狗MTV",
+      "name": "🐶酷狗MTV",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/酷狗MV.js"
+    },	
+
     {
       "key": "MV大全",
       "name": "MV大全",
@@ -645,7 +656,7 @@
 ],
 //解X设置
 "parses":[
-{"name":"点击右边切换解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"点击右边切换解析","type":0,"url":"https://www.ckmov.com/?url="},
  {
       "name": "落尘1",
       "type": 0,
