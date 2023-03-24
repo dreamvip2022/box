@@ -334,7 +334,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://hz752.love:63/ali/ken.php",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar"
+	  "jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"
     },
     {
       "key": "Alips",
@@ -345,7 +345,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://hz752.love:63/ali/ken.php",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar"
+	  "jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"
     },
     {
       "key": "Yisou",
@@ -356,7 +356,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://hz752.love:63/ali/ken.php",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar"
+	  "jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"
     },
     {
       "key": "Zhaozy",
@@ -367,7 +367,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://hz752.love:63/ali/ken.php$$$yingshi$$$abcd1234",
-	  "jar":"https://yydsys.top/duo/jar/ali.jar"
+	  "jar":"https://gitee.com/dream200/tb/raw/master/jar/ali.jar"
     },
 
 //{"key":"Yisou","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"15dcdda7b5e94cc98fa02e2affaacbea"}, 
