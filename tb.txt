@@ -1,6 +1,6 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/230311.jar",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/230320.jar",
 "sites": [
      {
     "key":"T4_douban",
@@ -100,8 +100,8 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/789ba.json"
     },
-{"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"csp_SP360","name":"💫360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
+//{"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_SP360","name":"💫360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 
 
     {
