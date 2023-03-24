@@ -32,21 +32,21 @@
       "type": 4,
       "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
       "searchable": 1,
-      "playerType": 3,
       "quickSearch": 1,
       "filterable": 1
     },
-//    {
-//      "key":"csp_app_阿里",
-//      "name":"🐼阿里影视",
-//      "type":3,
-//      "api":"csp_AppYsV2",
-//      "searchable":1,
-//     "quickSearch":1,
-//      "filterable":1,
-//    "ext":"http://aliys.cn:90/api.php/v1.vod",
-//      "jar":"https://gitee.com/dream200/tb/raw/master/jar/1228.jar"
-//    },
+  //  {
+  //    "key":"csp_app_阿里",
+  //    "name":"🐼阿里影视",
+  //    "type":3,
+  //    "api":"csp_AppYsV2",
+  //    "searchable":1,
+  //   "quickSearch":1,
+  //   "playerType": 2,
+  //    "filterable":1,
+  //  "ext":"http://aliys.cn:90/api.php/v1.vod",
+  //    "jar":"https://gitee.com/dream200/tb/raw/master/jar/1228.jar"
+  //  },
     	{
       "key": "csp_BuLei",
       "name": "⚡️布雷影视",
@@ -67,7 +67,7 @@
       "filterable":1
       },
  
-    {"key": "csp_Yht","name":"🌵荷塘影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"},
+    {"key": "csp_Yht","name":"🌵荷塘影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc","jar":"https://gitee.com/dream200/tb/raw/master/jar/230311.jar"},
     {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
       {"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
