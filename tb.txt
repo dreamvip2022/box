@@ -802,8 +802,8 @@
       "name": "live",
       "type": 0,
       "url": "https://gitee.com/dream200/tb/raw/master/t/t.bmp",
-      "epg": "http://192.168.50.32:88/api/diyp/?ch={name}&date={date}",
-      "logo": "http://192.168.50.32:88/logo/{name}.png"
+      "epg": "https://g269225l14.goho.co/api/diyp/?ch={name}&date={date}",
+      "logo": "https://g269225l14.goho.co/logo/{name}.png"
     }
 ], 
 
