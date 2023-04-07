@@ -237,7 +237,7 @@
    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/优酷.js"
   },
 
-{"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
+{"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dream200/tb/raw/master/ali/ali.txt"},
     {
       "key": "js_酷狗MTV",
       "name": "🐶酷狗MTV",
@@ -361,7 +361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },
     {
       "key": "Alips",
@@ -371,7 +371,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },
     {
       "key": "Yisou",
@@ -381,7 +381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },
     {
       "key": "Zhaozy",
@@ -391,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },
 
 //json资源
