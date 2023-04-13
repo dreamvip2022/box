@@ -1,7 +1,7 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
 //"wallpaper":"https://g269225l14.goho.co/",
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/230327.jar",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/230413.jar",
 "sites": [
      {
     "key":"T4_douban",
@@ -12,8 +12,8 @@
     "quickSearch":0,
     "filterable":1
     },
-    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},	
-    {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
+    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},		
+    {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
       {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
       {
       "key": "csp_大明",
@@ -36,18 +36,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  //  {
-  //    "key":"csp_app_阿里",
-  //    "name":"🐼阿里影视",
-  //    "type":3,
-  //    "api":"csp_AppYsV2",
-  //    "searchable":1,
-  //   "quickSearch":1,
-  //   "playerType": 2,
-  //    "filterable":1,
-  //  "ext":"http://aliys.cn:90/api.php/v1.vod",
-  //    "jar":"https://gitee.com/dream200/tb/raw/master/jar/1228.jar"
-  //  },
+//    {
+//      "key":"csp_app_阿里",
+//      "name":"🐼阿里影视",
+//      "type":3,
+//      "api":"csp_AppYsV2",
+//      "searchable":1,
+//     "quickSearch":1,
+//     "playerType": 2,
+//      "filterable":1,
+//    "ext":"http://aliys.cn:90/api.php/v1.vod",
+//      "jar":"https://gitee.com/dream200/tb/raw/master/jar/1228.jar"
+//    },
     {
 	  "key":"csp_BuLei",
 	  "name":"⚡️布雷影视",
