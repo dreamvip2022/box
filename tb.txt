@@ -59,17 +59,6 @@
 	  "ext":"http://movie.bulei.cc/",
 	  "m3u8ads": "hd.youyhn.com"
 	 },	
-         {
-	  "key": "csp_BuLei",
-	  "name": "⚡️布雷影视",
-	  "type": 3,
-	  "api": "csp_XYQHiker",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "ext": "https://gitee.com/dream200/tb/raw/master/jss/bulei.jsn",
-	  "m3u8ads": "hd.youyhn.com"
-	},
       {
       "key":"csp_Bd",
       "name":"💥哔滴影视",
