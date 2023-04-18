@@ -1,7 +1,7 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
 //"wallpaper":"https://g269225l14.goho.co/",
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/230414.jar",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/230418.jar",
 "sites": [
      {
     "key":"T4_douban",
