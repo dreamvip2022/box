@@ -175,6 +175,16 @@
 {"key": "csp_QQ","name": "🐧腾讯","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "🥝爱奇艺","type": 3,"api": "csp_Itv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV","name": "🥭芒果","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {
+      "key": "drpy_js_优酷",
+      "name": "👑优酷",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
+    },
   {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
       "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"},
       {
@@ -759,7 +769,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/dream200/tb/raw/master/t/t.bmp",
+      "url": "https://framagit.org/dreamvip/tv/-/raw/main/tv.zip",
       "epg": "https://g269225l14.goho.co/api/diyp/?ch={name}&date={date}",
       "logo": "https://g269225l14.goho.co/logo/{name}.png"
     }
