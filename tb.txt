@@ -1,7 +1,7 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
 //"wallpaper":"https://g269225l14.goho.co/",
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/230418.jar",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/230425.jar",
 "sites": [
      {
     "key":"T4_douban",
@@ -12,7 +12,7 @@
     "quickSearch":0,
     "filterable":1
     },
-    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},		
+    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},		
     {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
       {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
       {
@@ -26,6 +26,16 @@
       "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"],
 	  "tsads": "iqiyi.hbuioo.com"
 	},	
+    {
+      "key": "csp_WoGG",
+      "name": "💂‍云盘分享",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
+    },
 {
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
@@ -91,29 +101,10 @@
       "quickSearch":0,
       "filterable":1
       },
-    {
-      "key": "csp_xpath_789kp",
-      "name": "🎗️数字影院",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/789ba.json"
-    },
+
 //{"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_SP360","name":"💫360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 {"key": "csp_andy","name": "👶少儿资源","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/dream200/tb/raw/master/jss/少儿.jsn"},
-   {
-      "key": "py_baby",
-      "name": "👶宝宝合集",
-      "type": 3,
-      "api": "py_baby",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/baby.py"
-    },
     {
       "key": "csp_XYQHiker_‍亲宝资源",
       "name": "🧗亲宝资源",
@@ -132,16 +123,6 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
-    },
-    {
-      "key": "csp_YQKAPP",
-      "name": "👨‍👩‍👧‍👦一起看TV",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.11ty.top"
     },
     {
 	  "key":"百影视频",
@@ -210,12 +191,14 @@
    "key": "dr_优酷",
    "name": "👑优酷",
    "type": 3,
-   "api": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/drpy.min.js",
+   "api": "https://gitee.com/dream200/tb/raw/master/sites/drpy.min",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/优酷.js"
+   "ext": "https://gitee.com/dream200/tb/raw/master/sites/yk.jsn"
   },
+  {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"},
       {
       "key": "csp_XYQBiu_磁力熊",
       "name": "🧸磁力贝尔",
@@ -354,6 +337,49 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+
+{"key":"七夜","name":"🔎阿里搜索","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"},
+    {
+      "key": "Upyunso",
+      "name": "️🌤️云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
+    },
+    {
+      "key": "Alips",
+      "name": "📀盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
+    },
+    {
+      "key": "Yisou",
+      "name": "🎯易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },
 
 //json资源
