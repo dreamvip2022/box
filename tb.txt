@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
+      "ext":"http://v.ilime.cc"
     },
       {
       "key":"csp_Bd",
