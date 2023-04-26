@@ -769,7 +769,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://framagit.org/dreamvip/tv/-/raw/main/tv.zip",
+      "url": "https://gitlab.com/box24/box/-/raw/main/tv/tv.txt",
       "epg": "https://g269225l14.goho.co/api/diyp/?ch={name}&date={date}",
       "logo": "https://g269225l14.goho.co/logo/{name}.png"
     }
