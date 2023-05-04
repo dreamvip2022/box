@@ -39,7 +39,7 @@
       "key": "T4直播转点播",
       "name": "🖥️电视直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -80,7 +80,7 @@
 
 //{"key":"csp_SP360","name":"💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_SP360","name":"💫360影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
-{"key": "csp_andy","name": "👶少儿资源","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/dream200/tb/raw/master/jss/少儿.jsn"},
+{"key": "csp_andy","name": "👶少儿资源","type": 3,"api": "csp_AList","searchable": 0,"filterable": 1,"ext":"https://gitee.com/dream200/tb/raw/master/jss/少儿.jsn"},
     {
       "key": "csp_BuLei",
       "name": "⚡️布蕾影视",
@@ -91,7 +91,7 @@
       "filterable": 1,
       "ext":"http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
     },
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
     {
       "key": "csp_XYQHiker_‍亲宝资源",
@@ -249,7 +249,7 @@
       "filterable": 1
     },
 
-{"key": "csp_Alist","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/dream200/tb/raw/master/jss/Alist.jsn"},
+{"key": "csp_Alist","name": "🗂Alist网盘","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitee.com/dream200/tb/raw/master/jss/Alist.jsn"},
      {
       "key": "csp_Ysgc",
       "name": "️🎬️影视工厂",
