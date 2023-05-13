@@ -12,7 +12,7 @@
     "quickSearch":0,
     "filterable":1
     },
-    {"key": "csp_Kunyu77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://gitee.com/dream200/tb/raw/master/jar/777.jar"},		
+    {"key": "csp_Kuyun77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},		
     {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
       {
       "key": "csp_大明",
