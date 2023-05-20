@@ -738,7 +738,7 @@
       "type": 0,
       "url": "https://gitlab.com/box24/box/-/raw/main/tv/tv.txt",
       "epg": "https://g269225l14.goho.co/api/diyp/?ch={name}&date={date}",
-      "logo": "https://g269225l14.goho.co/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
 ], 
 
