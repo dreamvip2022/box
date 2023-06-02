@@ -1,7 +1,8 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
 //"wallpaper":"https://g269225l14.goho.co/",
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/230513.jar",
+"warningText":"有问题请加QQ群：817594329",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/fan.jar",
 "sites": [
     {
     "key":"T4_douban",
@@ -39,11 +40,11 @@
       "key": "直播转点播",
       "name": "🖥️电视直播",
       "type": 3,
-      "api": "https://gitee.com/dream200/tb/raw/master/zb/zbzdb.js",
-      "searchable": 1,
+      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/dream200/tb/raw/master/zb/zb.json"
+      "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
     },
     {"key":"csp_fantuan","name":"🍙饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
     {"key":"csp_Cokemv","name":"🥤可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
