@@ -1,12 +1,12 @@
 //友情提醒：资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为自用，如有冒犯请联系删除！
 {
 //"wallpaper":"https://g269225l14.goho.co/",
-"warningText":"有问题请加QQ群：817594329",
-"spider":"https://gitee.com/dream200/tb/raw/master/jar/fan.jar",
+"warningText":"咨询请加QQ群：817594329",
+"spider":"https://gitee.com/dream200/tb/raw/master/jar/duo.jar",
 "sites": [
     {
     "key":"T4_douban",
-    "name":"🍀豆瓣热榜",
+    "name":"🍀豆瓣热榜,咨询请加QQ群：817594329",
     "type":4,
     "api":"https://t4.饭太硬.ml/vod",
     "searchable":0,
@@ -26,16 +26,6 @@
       "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"],
 	  "tsads": "iqiyi.hbuioo.com"
 	},	
-    {
-      "key": "csp_WoGG",
-      "name": "💂‍云盘分享",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
-    },
    {
       "key": "直播转点播",
       "name": "🖥️电视直播",
@@ -50,7 +40,155 @@
     {"key":"csp_Cokemv","name":"🥤可乐影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌比特影视","type":3,"api":"csp_Bttwoo","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_Dy1010","name":"❤️双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
+        {
+      "key": "csp_WoGG",
+      "name": "💂‍云盘分享",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
+    },	
+        {
+            "key": "csp_酷影",
+            "name": "🖼️酷影蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.wbsys.top:9835/api.php/app/"
+        },
+        {
+			"key":"csp_阿班",
+			"name":"📐阿班影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://a.banwl.com/api.php/app/"
+		},		
+        {
+            "key": "csp_baofeng",
+            "name": "☔️暴风资源",
+            "type": 1,
+            "api": "http://bfzy.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "战争片",
+                "动漫片"
+            ]
+        },
+        {
+            "key": "csp_xml影视乐",
+            "name": "🐏乐乐影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.ysle.cn/api.php/app/"
+        },
+		{
+			"key": "app_影视之光",
+			"name": "🎳八仟影视",
+			"type": 1,
+			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"
+		},		
+        {
+            "key": "csp_aidi",
+            "name": "🤟爱迪高清",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+		{
+			"key": "apv2_瑞丰",
+			"name": "⛄瑞丰影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "http://www.miniku.cc/xgapp.php/v2/"
+		},		
+        {
+            "key": "csp_mdd",
+            "name": "🥚蛋蛋影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://app.mengdandan.com/xgapp.php/v1/"
+        },
+        {
+            "key": "csp_dongfang",
+            "name": "🏓东方影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.dfspapp.com/api.php/app/"
+        },
+        {
+            "key": "csp_freeok",
+            "name": "🎠福瑞影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playUrl": "",
+            "ext": "https://www.freeok.vip/api.php/app/"
+        },
+        {
+            "key": "csp_yayaya",
+            "name": "👧耐菲影视",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+        },
+        {
+            "key": "csp_ruyi",
+            "name": "🏑棍子影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
+            "key": "csp_beijihu",
+            "name": "🎪极狐影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
       {
       "key":"csp_Bd",
       "name":"💥哔滴影视",
@@ -174,9 +312,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
     },
-  {"key":"csp_Paper","name":"🔖小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
-      "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"},
-    {
+     {
 	  "key": "csp_XYQHikerdyx",
 	  "name":"🛥️磁力港口",
 	  "type":3,
