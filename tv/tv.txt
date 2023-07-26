@@ -635,7 +635,7 @@ CCTV14 高清,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 key=0b292c335e5837e947f9409c59228f3e6
 
 河南频道,#genre#
-河南都市,http://123.6.9.146/live/jzhenandushi/live.m3u8?zhend
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南都市,http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
 河南民生,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?
 河南公共,http://218.29.55.44:808/hls/22/index.m3u8
