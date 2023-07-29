@@ -102,14 +102,6 @@
       "filterable": 1,
       "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },	
-      		{
-			"key": "app_影视之光",
-			"name": "🎳八仟影视",
-            "searchable": 0,
-            "quickSearch": 0,
-			"type": 1,
-			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"
-		},		
         {
             "key": "csp_aidi",
             "name": "🤟爱迪高清",
