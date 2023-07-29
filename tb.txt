@@ -7,8 +7,7 @@
     {"key":"drpy_js_豆瓣","name":"🍀豆瓣热榜,咨询请加QQ群：817594329","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":0,"quickSearch":0,"changeable":0},
     {"key": "csp_Kuyun77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},		
     {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-   // {"key":"csp_DuoX","name":"多线┃App","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
-      {
+    {
       "key": "csp_大明",
       "name": "♏大明影视",
       "type": 1,
@@ -41,9 +40,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
       "ext": "http://ytcms.lfytyl.com/api.php/app/"
     },
+    {"key":"探探","name":"🎞影探视频","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":0},
     {
       "key": "js_荐片",
       "name": "⏳荐片影视",
@@ -83,6 +82,16 @@
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
+     {
+      "key": "csp_蘑菇影视",
+      "name": "🍄蘑菇影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.gvideo.me/api.php/app/"
+    },
         {
       "key": "csp_WoGG",
       "name": "💂‍云盘分享",
@@ -93,8 +102,7 @@
       "filterable": 1,
       "ext": "https://gitee.com/dream200/tb/raw/master/ali/ali.txt"
     },	
-  
-   		{
+      		{
 			"key": "app_影视之光",
 			"name": "🎳八仟影视",
             "searchable": 0,
@@ -193,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://www.bulei.cc/"
+      "ext":"https://www.buleitv.com/"
     },
        {
       "key":"csp_CZSPP",
@@ -739,7 +747,7 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dreamvip2022/box/main/tv/tv.txt",
       "epg": "https://g269225l14.goho.co/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "http://diyp.112114.xyz/logo/{name}.png"
     }
 ], 
 
