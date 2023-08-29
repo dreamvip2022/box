@@ -29,8 +29,6 @@
     },
     {"key":"csp_fantuan","name":"🍙饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
     {"key":"csp_Cokemv","name":"🥤可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"✌比特影视","type":3,"api":"csp_Bttwoo","searchable":0,"quickSearch":0,"filterable":1},
-    {"key":"csp_Dy1010","name":"❤️双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "js_荐片",
       "name": "⏳荐片影视",
