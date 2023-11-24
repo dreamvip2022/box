@@ -23,8 +23,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV8K,http://159.75.85.63:8765/xxtv8k.php
-CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 
 CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
 CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
