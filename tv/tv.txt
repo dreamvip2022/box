@@ -309,6 +309,38 @@ CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 浙江卫视,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
+安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
+北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
+兵团卫视,https://live.goodiptv.club/api/sxg.php?id=btws_4000
+重庆卫视,https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
+东方卫视,https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
+东南卫视,https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
+甘肃卫视,https://live.goodiptv.club/api/sxg.php?id=gsws_4000
+广东卫视,https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
+广西卫视,https://live.goodiptv.club/api/sxg.php?id=gxws_4000
+贵州卫视,https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
+海南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws_4000
+河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
+黑龙江卫视,https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
+湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
+湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
+吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
+江苏卫视,https://live.goodiptv.club/api/sxg.php?id=jswsH265_4000
+江西卫视,https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
+康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
+辽宁卫视,https://live.goodiptv.club/api/sxg.php?id=lnwsHDH264_4000
+内蒙古卫视,https://live.goodiptv.club/api/sxg.php?id=nmgws_4000
+山东教育卫视,https://live.goodiptv.club/api/sxg.php?id=sdjy_4000
+山东卫视,https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
+山西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
+陕西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws_4000
+深圳卫视,https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
+四川卫视,https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
+天津卫视,https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
+西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
+云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
+浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
+
 北京卫视,https://video.lzjtu.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/index.m3u8
 湖北卫视,https://video.lzjtu.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/index.m3u8
 湖南卫视,https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
@@ -938,6 +970,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 央视IPV6,#genre#
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
@@ -958,6 +992,7 @@ CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3
 CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
