@@ -723,14 +723,60 @@
   ],
   "parses": [
     {
-      "name": "🐉欧歌1",
-      "type": 0,
-      "url": "http://v.nxog.top/nxog.html?ou=公众号欧歌app&url="
+      "name": "欧歌1",
+      "type": 1,
+      "url": "http://b.nxog.top:81/jx/?ou=公众号欧歌app&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
     {
-      "name": "🐉欧歌2",
-      "type": 1,
-      "url": "http://b.nxog.top:81/jx/?ou=公众号欧歌app&url="
+      "name": "欧歌2",
+      "type": 0,
+      "url": "http://v.nxog.top/nxog.html?ou=公众号欧歌app&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
     {
       "name": "虾米",
