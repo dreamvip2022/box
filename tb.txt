@@ -723,7 +723,17 @@
   ],
   "parses": [
     {
-      "name": "可手动切换解析",
+      "name": "🐉欧歌1",
+      "type": 0,
+      "url": "http://v.nxog.top/nxog.html?ou=公众号欧歌app&url="
+    },
+    {
+      "name": "🐉欧歌2",
+      "type": 1,
+      "url": "http://b.nxog.top:81/jx/?ou=公众号欧歌app&url="
+    },
+    {
+      "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
