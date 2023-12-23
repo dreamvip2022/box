@@ -327,7 +327,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.space/download/6336/lib/cctv.py"
+      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/dreamvip2022/box/main/py/1.py"
     },
     {
       "key": "mtv_pc_yinfans",
