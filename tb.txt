@@ -309,15 +309,26 @@
       "api": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/菜狗.js"
     },
+//    {
+//      "key": "py_cctv",
+//      "name": "❤️央视大全",
+//      "type": 3,
+//      "api": "py_cctv",
+//      "searchable": 0,
+//      "quickSearch": 0,
+//      "filterable": 1,
+//      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/dreamvip2022/box/main/py/cctv.py"
+//    },
     {
-      "key": "py_cctv",
-      "name": "❤️央视大全",
+      "key": "cctv",
+      "name": "央视大全",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/dreamvip2022/box/main/py/cctv.py"
+      "ext": "https://d.kstore.space/download/6336/lib/cctv.py",
+      "jar": "https://pan.shangui.cc/f/BMjXsp/ttkx.jar"
     },
     {
       "key": "mtv_pc_yinfans",
