@@ -327,7 +327,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/dreamvip2022/box/main/py/1.py"
+      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/dreamvip2022/box/main/py/cctv.py"
     },
     {
       "key": "mtv_pc_yinfans",
