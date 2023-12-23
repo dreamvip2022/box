@@ -327,8 +327,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.space/download/6336/lib/cctv.py",
-      "jar": "https://pan.shangui.cc/f/BMjXsp/ttkx.jar"
+      "ext": "https://d.kstore.space/download/6336/lib/cctv.py"
     },
     {
       "key": "mtv_pc_yinfans",
