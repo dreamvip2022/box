@@ -1189,13 +1189,24 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
 
 河南综合,#genre#
+
+河南都市,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226430/index.m3u8?servicetype=1
+河南都市,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226649/index.m3u8?servicetype=1
+
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南都市,http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
+
+河南民生,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226433/index.m3u8?servicetype=1
+河南民生,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226685/index.m3u8?servicetype=1
+
 河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
-河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+
 河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226441/index.m3u8?servicetype=1
 河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226566/index.m3u8?servicetype=1
+
+河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+
 河南公共,http://sxz.zccatv.cn:9901/tsfile/live/1023_1.m3u8
 洛阳新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41115/index.m3u8
 洛阳新闻综合,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41115/index.m3u8
