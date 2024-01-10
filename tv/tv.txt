@@ -3,8 +3,15 @@ CCTV1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisd
 CCTV1,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 CCTV1,http://42.176.182.11:18088/hls/1/index.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+
 CCTV2,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=20240110141751ed6d9114783441baac6ea914bcc61dcd&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20240110141751&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=1.196.168.251&SecurityKey=20240110141751&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=639742393d488858b03d40c64c93dc77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38c221a62d8a6fa2a1f4ac30f791559b
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://42.176.182.11:18088/hls/2/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+
 CCTV3,
+
+
 CCTV4,
 CCTV5,
 CCTV5+,
