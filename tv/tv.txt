@@ -63,12 +63,15 @@ CCTV12,http://42.176.182.11:18088/hls/8/index.m3u8
 CCTV12,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv12
 CCTV12,http://video.lzjtu.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/index.m3u8
 
-CCTV13,
-CCTV13,
-CCTV13,
-CCTV13,
+CCTV13,http://mgsp-hs.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=20240110170055efd670c17cfc45e4af45d11e90a9ff0b&mdspid=&spid=699004&netType=4&sid=2202208864&pid=2028597139&timestamp=20240110170055&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=1.196.168.251&SecurityKey=20240110170055&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=5e9075ef84cc1a417837f7172254d27f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ccbf94d0619a1912f8a45ff8f682792
+CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13,http://42.176.182.11:18088/hls/9/index.m3u8
 
 CCTV14,
+CCTV14,
+CCTV14,
+CCTV14,
+
 CCTV15,
 CCTV16,
 CCTV17,
