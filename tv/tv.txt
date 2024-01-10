@@ -29,9 +29,8 @@ CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 CCTV5+,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv5p
 
 CCTV6,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=2024011014382732243629f4524e57978c6616749f56cd&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20240110143827&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=1.196.168.251&SecurityKey=20240110143827&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=70a97d9dde7cebef089fa1efec5f2e5e
-CCTV6,
-CCTV6,
-CCTV6,
+CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV6,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv6
 
 CCTV7,
 CCTV8,
