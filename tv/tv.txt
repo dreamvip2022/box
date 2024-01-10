@@ -32,8 +32,16 @@ CCTV6,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV6,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv6
 
-CCTV7,
+CCTV7,http://mgsp-hs.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/51/01.m3u8?msisdn=2024011016471490c5aa290013429f98dbca49726dddba&mdspid=&spid=699004&netType=4&sid=5501083622&pid=2028597139&timestamp=20240110164714&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=1.196.168.251&SecurityKey=20240110164714&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=bd1f835eec2701cc81765f87439c12ad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a51e83ec352ef55a8cd2bfafe848688
+CCTV7,http://42.176.182.11:18088/hls/4/index.m3u8
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv7
+
 CCTV8,
+CCTV8,
+CCTV8,
+CCTV8,
+
 CCTV9,
 CCTV10,
 CCTV11,
