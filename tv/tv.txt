@@ -16,8 +16,13 @@ CCTV3,http://mgsp-ali.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv3hd/2000/01.m3u
 CCTV4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2024011014301123bc1c46164e47cfb3df115255384983&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20240110143011&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=1.196.168.251&SecurityKey=20240110143011&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=4deb266a52c4352eaeb6c54abd74e5c6
 CCTV4,http://42.176.182.11:18088/hls/3/index.m3u8
 CCTV4,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv4
+CCTV4,http://video.lzjtu.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/index.m3u8
 
 CCTV5,
+CCTV5,
+CCTV5,
+CCTV5,
+
 CCTV5+,
 CCTV6,
 CCTV7,
