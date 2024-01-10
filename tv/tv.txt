@@ -67,13 +67,22 @@ CCTV13,http://mgsp-hs.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/01.m3
 CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://42.176.182.11:18088/hls/9/index.m3u8
 
-CCTV14,
-CCTV14,
-CCTV14,
-CCTV14,
+CCTV14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=20240110170325d71037b6ef2049ed94093bf867092173&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20240110170325&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=1.196.168.251&SecurityKey=20240110170325&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=5fc23ad26397d298c433fb9b8bf16ef2
+CCTV14,http://42.176.182.11:18088/hls/10/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV14,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv14
 
-CCTV15,
+CCTV15,http://mgsp-tx.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=202401101704370360503ae6ff412ba9d9ee8f34ef42e7&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20240110170437&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=1.196.168.251&SecurityKey=20240110170437&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=6fbbaec6fea897b0b3c528788f58d44b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7af8483632c1cb002d789cae4ee25a5a
+CCTV15,http://42.176.182.11:18088/hls/11/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV15,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv15
+CCTV15,http://video.lzjtu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/index.m3u8
+
 CCTV16,
+CCTV16,
+CCTV16,
+CCTV16,
+
 CCTV17,
 CCTV4K,
 
