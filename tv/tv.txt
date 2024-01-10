@@ -1,5 +1,5 @@
 中央频道,#genre#
-CCTV1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20240110140041e6f62c513df04427ae71d402dc01379e&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20240110140041&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=1.196.168.251&SecurityKey=20240110140041&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=f09afa38fb4458aa73f687b282503278
+CCTV1,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=2024011017102094e649d6ef1f4317a149a1db001eaaf4&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20240110171020&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=1.196.168.251&SecurityKey=20240110171020&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=5f8c1fc6c4e14ca35d18f4402ec3d13e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=156608666674d2766e12431c81c2593a
 CCTV1,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 CCTV1,http://42.176.182.11:18088/hls/1/index.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -78,13 +78,13 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV15,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv15
 CCTV15,http://video.lzjtu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/index.m3u8
 
-CCTV16,
-CCTV16,
-CCTV16,
-CCTV16,
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV16,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv16
 
-CCTV17,
-CCTV4K,
+CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202401101707302099bed889e6484ba0594f10698ac6b0&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20240110170730&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=1.196.168.251&SecurityKey=20240110170730&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=06005a4ab20d34b18f1e170f627c5051
+CCTV17,http://42.176.182.11:18088/hls/12/index.m3u8
+CCTV17,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv17
+
 
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
