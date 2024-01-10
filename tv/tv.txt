@@ -37,12 +37,16 @@ CCTV7,http://42.176.182.11:18088/hls/4/index.m3u8
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV7,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv7
 
-CCTV8,
-CCTV8,
-CCTV8,
-CCTV8,
+CCTV8,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20240110165051ca95c5c9fb074a84bf70186887a7172b&mdspid=&spid=699004&netType=4&sid=5500212868&pid=2028597139&timestamp=20240110165051&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=1.196.168.251&SecurityKey=20240110165051&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=5dc916fd403c722bfa8fb9ddf6790b56
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV8,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv8
+CCTV8,http://video.lzjtu.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/index.m3u8
 
 CCTV9,
+CCTV9,
+CCTV9,
+CCTV9,
+
 CCTV10,
 CCTV11,
 CCTV12,
