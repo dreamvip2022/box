@@ -9,10 +9,14 @@ CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.
 CCTV2,http://42.176.182.11:18088/hls/2/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 
-CCTV3,
+CCTV3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=2024011014261995d98e46a53147b5b8e7a867882f2dd1&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20240110142619&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=1.196.168.251&SecurityKey=20240110142619&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=f67c81156e464961549fdf0fb87f1cf9
+CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV3,http://mgsp-ali.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=202401101428530b85de1f33b34bdd935cfb0804204aae&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20240110142853&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=1.196.168.251&SecurityKey=20240110142853&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=53a2b0647a204b9bdfba8ac22aeaa8a1&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=d1ee3783bc32f08e492ab17ab333e1b1
 
-
+CCTV4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2024011014301123bc1c46164e47cfb3df115255384983&mdspid=&spid=699004&netType=4&sid=5500346947&pid=2028597139&timestamp=20240110143011&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=1.196.168.251&SecurityKey=20240110143011&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=4deb266a52c4352eaeb6c54abd74e5c6
+CCTV4,http://42.176.182.11:18088/hls/3/index.m3u8
 CCTV4,
+
 CCTV5,
 CCTV5+,
 CCTV6,
