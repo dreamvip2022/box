@@ -24,8 +24,8 @@ CCTV5,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv5
 CCTV5,http://video.lzjtu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/index.m3u8
 
 CCTV5+,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=202401101442529f4d67e7f2bc4485bafa8088eba71ab4&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20240110144252&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=1.196.168.251&SecurityKey=20240110144252&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=d3be84754b2f9a0e5233682e02673c04&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=226d11b0da8f320dc435422367845b47
-CCTV5+,
-CCTV5+,
+CCTV5+,http://42.176.182.11:18088/hls/56/index.m3u8
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV5+,
 
 CCTV6,http://mgsp-hs.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=2024011014382732243629f4524e57978c6616749f56cd&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20240110143827&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=1.196.168.251&SecurityKey=20240110143827&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=70a97d9dde7cebef089fa1efec5f2e5e
