@@ -58,12 +58,16 @@ CCTV11,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 CCTV11,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv11
 CCTV11,http://video.lzjtu.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/index.m3u8
 
-CCTV12,
-CCTV12,
-CCTV12,
-CCTV12,
+CCTV12,http://mgsp-hs.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/51/01.m3u8?msisdn=2024011016585247673c4ac6874b299fb0563489d3895d&mdspid=&spid=699004&netType=4&sid=5501083627&pid=2028597139&timestamp=20240110165852&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=1.196.168.251&SecurityKey=20240110165852&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-6.12.1.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=693e242b98822afc062edfb2cba85177&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=509e4eb2ad5293c860555bb1bff8746d
+CCTV12,http://42.176.182.11:18088/hls/8/index.m3u8
+CCTV12,http://www.51romzj.xyz/diyroms/dll/8mgqhk.php?/PLTV/&ip=&id=cctv12
+CCTV12,http://video.lzjtu.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/index.m3u8
 
 CCTV13,
+CCTV13,
+CCTV13,
+CCTV13,
+
 CCTV14,
 CCTV15,
 CCTV16,
