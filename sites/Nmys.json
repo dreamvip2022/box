@@ -36,7 +36,6 @@
       "dtCateR": "",
       "dtYear": "//span[contains(text(), '年代')]/following-sibling::a/text()",
       "dtYearR": "",
-      "dtArea": "",
       "dtAreaR": "",
       "dtDirector": "//span[contains(text(), '导演')]/following-sibling::a/text()",
       "dtDirectorR": "",
