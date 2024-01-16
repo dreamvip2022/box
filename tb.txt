@@ -294,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dreamvip2022/box/main/sites/Nmys.json"
+      "ext": "https://gitee.com/dream200/tb/raw/master/sites/Nmys.json"
     },
     {
       "key": "csp_XYQBiu_大师兄影视",
