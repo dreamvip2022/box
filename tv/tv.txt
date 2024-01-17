@@ -2513,11 +2513,16 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南都市,http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
 
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+
 河南民生,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226433/index.m3u8?servicetype=1
 河南民生,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226685/index.m3u8?servicetype=1
 
 河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
 
 河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226441/index.m3u8?servicetype=1
 河南公共,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226566/index.m3u8?servicetype=1
@@ -2525,6 +2530,22 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
 
 河南公共,http://sxz.zccatv.cn:9901/tsfile/live/1023_1.m3u8
+
+河南新闻,http://218.29.55.44:808/hls/21/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv6#http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+河南公共,http://218.29.55.44:808/hls/22/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv8
+河南法治,http://218.29.55.44:808/hls/19/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv4
+河南电视剧,http://218.29.55.44:808/hls/20/index.m3u8#http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
+
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8#http://1.195.111.251:11190/tsfile/live/1000_1.m3u8#http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2
+河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8#http://1.195.111.251:11190/tsfile/live/0003_1.m3u8#http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8#http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend#http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv3
+河南乡村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8#http://218.29.55.44:808/hls/23/index.m3u8
+河南文博,http://123.6.9.146/live/jz-henanwenwu/live.m3u8
+河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+河南远程党员教育,http://123.6.9.146/live/jz-m-ycjy/live.m3u8
+郑州教育频道,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
+
+河南导视4K,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
@@ -2641,14 +2662,6 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 
-河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8#http://1.195.111.251:11190/tsfile/live/1000_1.m3u8#http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2
-河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8#http://1.195.111.251:11190/tsfile/live/0003_1.m3u8#http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8#http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend#http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv3
-河南乡村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8#http://218.29.55.44:808/hls/23/index.m3u8
-河南文博,http://123.6.9.146/live/jz-henanwenwu/live.m3u8
-河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
-河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
-河南远程党员教育,http://123.6.9.146/live/jz-m-ycjy/live.m3u8
-郑州教育频道,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8#http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8#http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8#http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
@@ -2757,13 +2770,9 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 鄢陵综合频道,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8#http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-河南导视4K,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 焦作综合,http://1.195.111.251:11190/tsfile/live/1002_1.m3u8
 鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
-河南新闻,http://218.29.55.44:808/hls/21/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv6#http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-河南公共,http://218.29.55.44:808/hls/22/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv8
-河南法治,http://218.29.55.44:808/hls/19/index.m3u8#http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv4
-河南电视剧,http://218.29.55.44:808/hls/20/index.m3u8#http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
+
 清风平顶山,http://live.dxhmt.cn:9080/13619822555/ff0d20a1d7c840a3850bfdab119943ac.m3u8
 平顶山民生,http://live.dxhmt.cn:9080/13619822555/b119d353d9fe4ee0ad34056550705665.m3u8
 孟津生活频道,http://tvpull.dxhmt.cn:9081/tv/10322-1.m3u8
@@ -2809,7 +2818,6 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 鹤壁综合频道,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8?zhend
 沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8?zhend
 
-河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8
 信阳综合,http://mmitv.top/test/tianma.php?id=xyzh
 信阳公共,http://mmitv.top/test/tianma.php?id=xygg
 信阳浉河,http://mmitv.top/test/tianma.php?id=xysh
@@ -2858,8 +2866,7 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
-河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
