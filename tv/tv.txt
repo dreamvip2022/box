@@ -13,6 +13,7 @@ CCTV10,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
 CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
 CCTV12,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
 CCTV13,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV14,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
 CCTV15,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
 CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
