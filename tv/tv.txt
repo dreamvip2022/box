@@ -526,18 +526,16 @@ CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 山东教育,http://121.19.134.215:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 
-嘉佳卡通,https://live3.rxip.sc96655.com/live/jjkt_2000.m3u8
-金鹰卡通,https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
-卡酷少儿,https://live3.rxip.sc96655.com/live/kkkt_4000.m3u8
-金鹰卡通,http://110.81.206.138:50080/tsfile/live/23065_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://110.81.206.138:50080/tsfile/live/23066_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://110.81.206.138:50080/tsfile/live/23067_1.m3u8?key=txiptv&playlive=1&authid=0
-
 金鹰卡通,http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://123.52.43.144:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://123.52.43.144:8888/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,http://123.52.43.144:8888/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://121.19.134.215:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://110.81.206.138:50080/tsfile/live/23065_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://110.81.206.138:50080/tsfile/live/23066_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://110.81.206.138:50080/tsfile/live/23067_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 CETV1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 CETV4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
@@ -1235,7 +1233,6 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
 
 河南综合,#genre#
-河南卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
 河南卫视,http://222.89.107.42:9876/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://222.89.107.42:9876/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://222.89.107.42:9876/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
