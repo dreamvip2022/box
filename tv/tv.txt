@@ -1240,7 +1240,6 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 河南电视剧,http://222.89.107.42:9876/tsfile/live/0139_4.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://222.89.107.42:9876/tsfile/live/0139_5.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://222.89.107.42:9876/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
-梨园频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
 河南梨园,http://222.89.107.42:9876/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
 
 河南卫视,http://123.52.43.144:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
