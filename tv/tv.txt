@@ -1,4 +1,4 @@
-亲朋好友新年快乐,#genre#
+新年快乐,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 中央频道,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
